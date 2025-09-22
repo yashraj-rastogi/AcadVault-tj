@@ -1,30 +1,13 @@
-# Student portal components
-
-*Automatically synced with your [v0.app](https://v0.app) deployments*
-
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/yashraj-rastogis-projects/v0-student-portal-components)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/projects/1VX9M1UguXG)
+# AcadVault — Student Portal Components
 
 ## Overview
 
-This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
+AcadVault is a set of modular UI components and flows for a modern student portal, designed to centralize academic tasks and resources in one place. The project is created and iterated in v0.app and automatically synced to this repository, with deployments handled by Vercel.
 
-## Deployment
+Use these components to assemble a complete portal or embed specific flows into an existing app.
 
-Your project is live at:
+## Project Idea (What this aims to solve)
 
-**[https://vercel.com/yashraj-rastogis-projects/v0-student-portal-components](https://vercel.com/yashraj-rastogis-projects/v0-student-portal-components)**
-
-## Build your app
-
-Continue building your app on:
-
-**[https://v0.app/chat/projects/1VX9M1UguXG](https://v0.app/chat/projects/1VX9M1UguXG)**
-
-## How It Works
-
-1. Create and modify your project using [v0.app](https://v0.app)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+- Provide students with a single hub for courses, resources, schedules, and announcements.
+- Streamline common actions like viewing assignments, tracking progress, and managing submissions.
+- Offer simple, reusable components that can be adapted to different institutions or use cases.
